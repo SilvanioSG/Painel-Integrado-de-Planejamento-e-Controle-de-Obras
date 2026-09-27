@@ -137,6 +137,7 @@ Gestor de Operações e Negócios Orientado a Dados
 | Arquivo | Descrição |
 | :--- | :--- |
 | `Obras.xlsx` | Base de dados consolidada com informações mensais das obras (custo, avanço físico, produtividade, etc.). |
+| `logo_br_site.png` | Logo usado no projeto. |
 | `PlanejamentoDeObrasSenior.pbix` | Arquivo fonte do dashboard no Power BI. |
 | `PlanejamentoDeObrasSenior.pdf` | Exportação em PDF do relatório completo. |
 | `pagina1.png` | Captura de tela da Página 1 – Visão Estratégica. |
