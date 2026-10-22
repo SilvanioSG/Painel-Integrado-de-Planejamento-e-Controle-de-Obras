@@ -2,7 +2,7 @@
 
 **Dashboard executivo para gestão de obras com foco em Earned Value Management (EVM), produtividade, riscos e previsões.**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)[https://app.powerbi.com/view?r=eyJrIjoiZTEwZTE2NDEtZGE4ZS00MDg1LWFiZTYtMDNiZjM4MDFhY2E3IiwidCI6IjJlYmQyYzU0LWY1ZDMtNGVmYi05ZGE3LWU4Yzk0YmQyMWQzOSJ9]
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)(https://app.powerbi.com/view?r=eyJrIjoiZTEwZTE2NDEtZGE4ZS00MDg1LWFiZTYtMDNiZjM4MDFhY2E3IiwidCI6IjJlYmQyYzU0LWY1ZDMtNGVmYi05ZGE3LWU4Yzk0YmQyMWQzOSJ9)
 
 
 ---
